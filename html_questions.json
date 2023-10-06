@@ -1,0 +1,74 @@
+[
+  {
+    "title": "تنقسم مكونات جهاز الحاسوب الى ",
+    "answer_1": "اثنين مكونات",
+    "answer_2": "ثلاثة مكونات",
+    "answer_3": "اربعة مكونات",
+    "answer_4": "خمسة مكونات",
+    "right_answer": "اثنين مكونات"
+  },
+  {
+    "title": "يسمى الشريط السفلي في الشاشة بـ",
+    "answer_1": "شريط الأدوات",
+    "answer_2": "شريط المهام",
+    "answer_3": "الشريط الجانبي",
+    "answer_4": "شريط المحذوفات",
+    "right_answer": "شريط المهام"
+  },
+  {
+    "title": "في المجلد يمكن أن نحتفظ بـ",
+    "answer_1": "ملف نصي",
+    "answer_2": "ملف وورد",
+    "answer_3": "ملف أكسل",
+    "answer_4": "كل ماذكر",
+    "right_answer": "كل ماذكر"
+  },
+  {
+    "title": "لوحة المفاتيح في جهاز الكمبيوتر تعتبر من ",
+    "answer_1": "من المكونات الأولية ",
+    "answer_2": "من المكونات البرمجية ",
+    "answer_3": "من المكونات الثانوية  ",
+    "answer_4": "من المكونات المادية ",
+    "right_answer": "من المكونات المادية "
+  },
+  {
+    "title": "تعتبر أحد وحدات قياس حجم الملفات",
+    "answer_1": "الكيلو",
+    "answer_2": "لتر",
+    "answer_3": "بايت",
+    "answer_4": "طن",
+    "right_answer": "بايت"
+  },
+  {
+    "title": "من خصائص الجهاز",
+    "answer_1": "المعالج",
+    "answer_2": "جيل المعالج",
+    "answer_3": "الذاكرة RAM",
+    "answer_4": "كل ماذكر",
+    "right_answer": "كل ماذكر"
+  },
+  {
+    "title": "تنقسم وحدة التخزين الى ",
+    "answer_1": "وحدة تخزين كبيرة وصغيرة",
+    "answer_2": "وحدة تخزين متسلسلة ",
+    "answer_3": "وحدة تخزين رئيسية وثانوية",
+    "answer_4": "وحدة تخزين داخلية وخارجية",
+    "right_answer": "وحدة تخزين داخلية وخارجية"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  }
+]
