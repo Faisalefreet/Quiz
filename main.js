@@ -178,7 +178,7 @@ function showResults(count) {
     if (rightAnswers > count / 2 && rightAnswers < count) {
       theResults = `<span class="good">جيد </span>, ${rightAnswers} من ${count}`;
     } else if (rightAnswers === count) {
-      theResults = `<span class="perfect">Perfect</span>, كل الاجابات ممتاز`;
+      theResults = `<span class="perfect">ممتاز</span>, كل الاجابات صحيحة`;
     } else {
       theResults = `<span class="bad">ضعيف</span>, ${rightAnswers} من ${count}`;
     }
